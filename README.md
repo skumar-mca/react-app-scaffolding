@@ -1,20 +1,22 @@
 # Project has pre-configured below given features.
 
-### 1. React router with **lazy loading** enabled.
-### 2. **Content Security Policy (CSP)** headers for preventing XSS attacks.
-### 3. CacheManager class for **encrypting data** stored in browser's local storage.
-### 4. Implementation of **Container pattern**.
-### 5. Preconfigured **REDUX store** with sample implementation of **actions**, **dispatchers** and **reducers**.
-### 6. **axios** implementation with interceptor for configuring API calls.
-### 7. Pre-configured loader for API calls.
-### 8. lodashWrapper file, containing common **lodash methods** for reducing the bundle size.
-### 9. Common controls like **textbox**, **select** in shared-component folder.
-### 10. **Redux-Form** implementation for managing form. Connecting forms to redux store, adding form validations and handling various other form actions.
-### 11. Implementation of **env files** for configuring environment specific values.
-### 12. **Bootstrap 3** for styling.
+1. React router with **lazy loading** enabled.
+2. **Content Security Policy (CSP)** headers for preventing XSS attacks.
+3. CacheManager class for **encrypting data** stored in browser's local storage.
+4. Implementation of **Container pattern**.
+5. Preconfigured **REDUX store** with sample implementation of **actions**, **dispatchers** and **reducers**.
+6. **axios** implementation with interceptor for configuring API calls.
+7. Pre-configured loader for API calls.
+8. lodashWrapper file, containing common **lodash methods** for reducing the bundle size.
+9. Common controls like **textbox**, **select** in shared-component folder.
+10. **Redux-Form** implementation for managing form. Connecting forms to redux store, adding form validations and handling various other form actions.
+11. Implementation of **env files** for configuring environment specific values.
+12. **Bootstrap 3** for styling.
 
-<br/><br/>  
+<br/>
+
 #
+
 <br/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

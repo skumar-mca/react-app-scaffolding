@@ -1,4 +1,4 @@
 const en = {
-	'2040': { type: 'attention', text: 'The update reason will not be saved as no edits were made.' }
+	'101': { type: 'attention', text: 'The record will not be saved.' }
 }
 export default en;
